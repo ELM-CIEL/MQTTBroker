@@ -1,0 +1,5 @@
+1744874902: mosquitto version 2.0.21 starting
+1744874902: Config loaded from /mosquitto/config/mosquitto.conf.
+1744874902: Opening ipv4 listen socket on port 1883.
+1744874902: Opening ipv6 listen socket on port 1883.
+1744874902: mosquitto version 2.0.21 running
